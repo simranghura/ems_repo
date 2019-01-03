@@ -72,6 +72,20 @@
                     <a:resultAssertions>count(test!output)=2</a:resultAssertions>
                 </a:assertions>
             </el>
+            <el>
+                <a:name>CheckOfTest1</a:name>
+                <a:assertions>
+                    <a:expectedOutput xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                    <a:resultAssertions>true()</a:resultAssertions>
+                </a:assertions>
+            </el>
+            <el>
+                <a:name>Copy of CheckOfTest2</a:name>
+                <a:assertions>
+                    <a:expectedOutput xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                    <a:resultAssertions>false()</a:resultAssertions>
+                </a:assertions>
+            </el>
         </value>
     </typedValue>
 </contentHaul>
