@@ -80,11 +80,34 @@
                 </a:assertions>
             </el>
             <el>
-                <a:name>Copy of CheckOfTest2</a:name>
+                <a:name>CheckOfTest2</a:name>
                 <a:assertions>
                     <a:expectedOutput xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
                     <a:resultAssertions>false()</a:resultAssertions>
                 </a:assertions>
+            </el>
+            <el>
+                <a:name>CheckOfTest3</a:name>
+                <a:assertions>
+                    <a:expectedOutput xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                    <a:resultAssertions>now() = now()</a:resultAssertions>
+                </a:assertions>
+            </el>
+            <el>
+                <a:name>CheckOfTest4</a:name>
+                <a:assertions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            </el>
+            <el>
+                <a:name>CheckOfTest5</a:name>
+                <a:assertions>
+                    <a:expectedOutput xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                    <a:resultAssertions>loggedInUser() = loggedInUser()
+</a:resultAssertions>
+                </a:assertions>
+            </el>
+            <el>
+                <a:name>CheckOfTest6</a:name>
+                <a:assertions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
             </el>
         </value>
     </typedValue>
