@@ -124,6 +124,7 @@
                         <uuid>SYSTEM_RULE_FOLDER_QUICK_APPS</uuid>
                         <uuid>_a-0000dfed-a419-8000-3120-01ef9001ef90_23716</uuid>
                         <uuid>_a-0000deea-a4a7-8000-3457-01ef9001ef90_84476</uuid>
+                        <uuid>_a-0000e0d5-aa1e-8000-3120-01ef9001ef90_13549</uuid>
                     </uuids>
                 </item>
                 <item>
@@ -336,4 +337,4 @@
             </role>
         </contentRoleMap>
     </roleMap>
-</applicationHaul><!--updated on 2019-01-07T13:01:51.062-->
+</applicationHaul><!--updated on 2019-01-07T14:20:49.872-->
